@@ -161,7 +161,7 @@ Raft:                   enabled, 0.5 mm thick
 
 ## Citation
 
-If you use this cap (or a derivative) in a publication, please cite the accompanying JoVE protocol (manuscript in revision, citation to be updated on publication) and, for the underlying re-sealable chronic head-mount architecture, Kisso *et al.* (2025), *bioRxiv* [10.1101/2025.11.13.688186](https://www.biorxiv.org/content/10.1101/2025.11.13.688186v1).
+If you use this cap (or a derivative) in a publication, please cite the accompanying JoVE protocol (manuscript in revision, citation to be updated on publication) and, for the underlying re-sealable chronic head-mount architecture, Kiiso *et al.* (2025), *bioRxiv* [10.1101/2025.11.13.688186](https://www.biorxiv.org/content/10.1101/2025.11.13.688186v1).
 
 ---
 
